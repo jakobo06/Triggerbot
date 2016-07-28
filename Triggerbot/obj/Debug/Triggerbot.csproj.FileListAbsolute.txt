@@ -1,0 +1,7 @@
+c:\users\jakob\documents\visual studio 2015\Projects\Triggerbot\Triggerbot\bin\Debug\Triggerbot.exe.config
+c:\users\jakob\documents\visual studio 2015\Projects\Triggerbot\Triggerbot\obj\Debug\Triggerbot.csprojResolveAssemblyReference.cache
+c:\users\jakob\documents\visual studio 2015\Projects\Triggerbot\Triggerbot\bin\Debug\Triggerbot.exe
+c:\users\jakob\documents\visual studio 2015\Projects\Triggerbot\Triggerbot\bin\Debug\Triggerbot.pdb
+c:\users\jakob\documents\visual studio 2015\Projects\Triggerbot\Triggerbot\bin\Debug\VAMemory.dll
+c:\users\jakob\documents\visual studio 2015\Projects\Triggerbot\Triggerbot\obj\Debug\Triggerbot.exe
+c:\users\jakob\documents\visual studio 2015\Projects\Triggerbot\Triggerbot\obj\Debug\Triggerbot.pdb
